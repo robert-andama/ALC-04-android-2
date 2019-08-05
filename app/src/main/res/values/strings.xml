@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TravelMantics</string>
+
+    <string name="title_hint">Deal Title</string>
+    <string name="price_hint">Price (numbers only)</string>
+    <string name="description_hint">Description</string>
+    <string name="save_menu">save</string>
+    <string name="delete_deal">Delete Deal</string>
+
+    <!--Deals activity-->
+    <string name="select_image">Select Image</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam autem cumque cupiditate fugit harum illo ipsa iste nobis pariatur placeat porro, similique sint tempora velit vero! Fugiat quas rerum unde.</string>
+
+    <string name="web_client_id" translatable="false">392176985862-co6n2e6dkakmsmigjba8b12rq0cj89o8.apps.googleusercontent.com</string>
+
+</resources>
